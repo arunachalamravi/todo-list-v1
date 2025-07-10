@@ -5,8 +5,8 @@ A modern Todo application built with **React** + **Vite**, styled using **Tailwi
 State management is handled by **Zustand**, API endpoints are mocked, and icons are provided by **React Icons**.
 
 - **Author:** Arunachalam R
-- **GitHub Repository:** [https://github.com/arunachalamr/smart-todo](https://github.com/arunachalamr/smart-todo) <!-- Change to actual repo URL if different -->
-- **Live Demo (Vercel):** [https://smart-todo.vercel.app](https://smart-todo.vercel.app) <!-- Change to actual deployed URL if different -->
+- **GitHub Repository:** [https://github.com/arunachalamravi/todo-list-v1](https://github.com/arunachalamravi/todo-list-v1)
+- **Live Demo (Vercel):** [http://todo-list-v1-indol.vercel.app/](http://todo-list-v1-indol.vercel.app/) 
 
 ---
 
