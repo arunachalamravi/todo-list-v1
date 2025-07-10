@@ -1,12 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Smart Todo
 
-Currently, two official plugins are available:
+A modern Todo application built with **React** + **Vite**, styled using **Tailwind CSS**.  
+State management is handled by **Zustand**, API endpoints are mocked, and icons are provided by **React Icons**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Author:** Arunachalam R
+- **GitHub Repository:** [https://github.com/arunachalamr/smart-todo](https://github.com/arunachalamr/smart-todo) <!-- Change to actual repo URL if different -->
+- **Live Demo (Vercel):** [https://smart-todo.vercel.app](https://smart-todo.vercel.app) <!-- Change to actual deployed URL if different -->
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- ⚡ **React + Vite** for fast development and build
+- 🎨 **Tailwind CSS** for utility-first styling
+- 🗂️ **Zustand** for simple and scalable state management
+- 🔗 **Mock API** endpoints for easy testing and development
+- 🌟 **React Icons** for beautiful iconography
+- 🚀 **Deployed on Vercel** for instant access
+
+---
+
+## Getting Started
+
+### 1. Clone the repository
+### 2. Install dependencies
+### 3. npm run dev
+
+
+
